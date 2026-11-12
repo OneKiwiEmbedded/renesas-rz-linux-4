@@ -100,4 +100,5 @@ dtb-$(CONFIG_ARCH_R9A09G057) += r9a09g057h4-evk-alpha.dtb
 dtb-$(CONFIG_ARCH_R9A09G057) += r9a09g057h4-evk-ver1.dtb
 dtb-$(CONFIG_ARCH_R9A09G057) += onekiwi-rzv2h-dev.dtb
 dtb-$(CONFIG_ARCH_R9A09G057) += onekiwi-rzv2h-8gb.dtb
+dtb-$(CONFIG_ARCH_R9A09G057) += onekiwi-rzv2h-4gb.dtb
 dtb-$(CONFIG_ARCH_R9A09G057) += onekiwi-rzv2h-16gb.dtb
